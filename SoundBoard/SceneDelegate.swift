@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  SoundBoard
-//
-//  Created by Diego Laura on 31/10/23.
-//
 
 import UIKit
 
